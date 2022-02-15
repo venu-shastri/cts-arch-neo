@@ -13,7 +13,7 @@ https://rapidapi.com/apidojo/api/yahoo-finance1/market/v2/get-quotes
 
 Symbols: TECHM.NS,MARUTI.NS,ONGC.NS,ICICIBANK.NS,WIPRO.NS,ULTRACEMCO.NS,TITAN.NS,SHREECEM.NS
 
-•
+
 
 #### Admin Functionalities
 
